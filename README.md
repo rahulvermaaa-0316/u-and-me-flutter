@@ -109,10 +109,5 @@ Replace `YOUR-USERNAME` with your GitHub username. Keep the repository public or
 - [ ] Add team member names and roll numbers to this README
 - [ ] Submit the repository URL and release APK before the deadline
 
-## Team members
 
-Update this section before submission.
 
-| Name | Roll number | Role |
-|---|---|---|
-| Add team member | Add roll number | Flutter development |
